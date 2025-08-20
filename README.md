@@ -1,6 +1,8 @@
 # ShadowDrive 
 ## Small in size, but uncompromising in performance.  
-
+#I will officially release the new generation KESC on the @Knockoi account!
+This time, we’ve completely upgraded the driver and redesigned the circuit layout,
+bringing a smaller form factor, stronger performance, and higher reliability.  
 ## Current Progress (Update) 
 <img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-System.png" width="300px"><img src="https://github.com/Knockoi/Shadow-ESC/blob/main/Image/V5-Driver.png" width="300px"> 
 
